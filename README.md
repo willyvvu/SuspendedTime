@@ -4,7 +4,7 @@
 
 From class schedules to solar cycles, from sleep to socialization, daily rhythms form the invisible backbone of a student's day. Suspended Time seeks to shed light on student time use through data collection and visualization, as a projected art installation.
 
-[View in Browser](index.html)
+[View in Browser](https://willy-vvu.github.io/SuspendedTime)
 
 [Watch Video](https://www.youtube.com/watch?v=0fhPgU8s63Y)
 
