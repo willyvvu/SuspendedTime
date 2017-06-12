@@ -6,7 +6,7 @@ From class schedules to solar cycles, from sleep to socialization, daily rhythms
 
 [View in Browser](https://willy-vvu.github.io/SuspendedTime)
 
-[Watch Video](https://www.youtube.com/watch?v=0fhPgU8s63Y)
+[Watch the Video](https://www.youtube.com/watch?v=0fhPgU8s63Y)
 
 ![](SuspendedTimeAnim.gif)
 
