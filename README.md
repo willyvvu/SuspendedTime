@@ -32,7 +32,7 @@ From class schedules to solar cycles, from sleep to socialization, daily rhythms
 
 ---
 
-Collaborators: Katherine Nazemi
+In Collaboration with: Katherine Nazemi
 
 Supported by: MIT [ProjX](https://projx.mit.edu/)
 
